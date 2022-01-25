@@ -22,3 +22,5 @@ function CSSInHead(module) {
     return false
 }
 
+console.log('hello');
+
