@@ -1,3 +1,5 @@
+console.log('57');
+
 export function addCSS(module) {
     if (!CSSInHead(module)) {
         const head = document.querySelector('head');
