@@ -27,3 +27,5 @@ function CSSInHead(module) {
 console.log('hello');
 console.log('conflict');
 console.log('summon');
+console.log('XD');
+console.log('belo');
